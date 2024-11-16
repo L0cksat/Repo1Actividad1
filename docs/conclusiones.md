@@ -13,13 +13,13 @@ Cada integrante debe colaborar en la redacción de un documento grupal en el que
 ---
 
 1. ### `Conclusiones sobre GIT`:
-
+   **Victor**: muy util para colaborar conjuntamente en desarrollos, sincronizar cambios y que cada uno tenga una copia de repaldo
    - Escribir...
 
    ***
 
 2. ### `Fortalezas y debilidades encontradas durante el desarrollo`:
-
+   **Victor**: principal debilidad la necesidad de hacer la tarea en grupo en llamada por falta de agilidad y experiencia trabajando con Git. Como fortaleza la capacidad de trabjaar de forma paralela puediendo despues agrupar y unir los cambios
    - Escribir...
 
    ***
@@ -31,7 +31,8 @@ Cada integrante debe colaborar en la redacción de un documento grupal en el que
    ***
 
 4. ### `Explicación de problemas encontrados y soluciones aplicadas`:
-
+   **Victor**: Problemas con "--fast-forward" al hacer algun merge y con el editor integrado. Falta de agiliad trabajando en equipo. Enunciado de la actividad algo confuso.
+   Soluciones: consultar la documentacion y stackoverflow.
    - Escribir...
 
    ***
