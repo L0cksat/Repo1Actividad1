@@ -14,13 +14,13 @@ Cada integrante debe colaborar en la redacción de un documento grupal en el que
 
 1. ### `Conclusiones sobre GIT`:
 
-   - Escribir...
+   - Marcos: "Útil para trabajar en equipo sobre un mismo proyecto"
 
    ***
 
 2. ### `Fortalezas y debilidades encontradas durante el desarrollo`:
 
-   - Escribir...
+   - Marcos: "Actualización sobre una misma release. Necesario conocimiento sobre intención del cliente para estructurar el proyecto"
 
    ***
 
@@ -32,7 +32,7 @@ Cada integrante debe colaborar en la redacción de un documento grupal en el que
 
 4. ### `Explicación de problemas encontrados y soluciones aplicadas`:
 
-   - Escribir...
+   - Marcos: "Necesaria reunión en equipo para resolución de problemas"
 
    ***
 
