@@ -25,15 +25,20 @@ Cada integrante debe colaborar en la redacción de un documento grupal en el que
 2. ### `Fortalezas y debilidades encontradas durante el desarrollo`:
 
    - **Marcos**: "Actualización sobre una misma release. Necesario conocimiento sobre intención del cliente para estructurar el proyecto"
-   - **Juan**: "Los pasos que Git te obliga a seguir hacen que sea muy complicado borrar información importante. A su vez, todos estos pasos hacen que Git se sienta muy anacrónico comparado con alternativas más actuales de compartición de documentos."
-   - **Victor**: principal debilidad la necesidad de hacer la tarea en grupo en llamada por falta de agilidad y experiencia trabajando con Git. Como fortaleza la capacidad de trabajar de forma paralela pudiendo después agrupar y unir los cambios
-   - **Stephen**: "Como estoy verde, lo que veo es que necesita un lenguaje más intuitivo para entender ciertos fallos, sus fortalezas es que es que actualización instantáneo sobre el proyecto."
+   - **Juan**: "Los pasos que Git te obliga a seguir hacen que sea muy complicado borrar información importante. A su vez, todos estos pasos hacen que Git se sienta muy anacrónico comparado con alternativas más actuales de intercambio de documentos."
+   - **Victor**: "Principal debilidad la necesidad de hacer la tarea en grupo en llamada por falta de agilidad y experiencia trabajando con Git. Como fortaleza la capacidad de trabajar de forma paralela pudiendo después agrupar y unir los cambios"
+   - **Stephen**: "Como estoy verde, lo que veo es que necesita un lenguaje más intuitivo para entender ciertos fallos, sus fortalezas es que es que actualización instantáneo sobre el proyecto"
 
    ***
 
-3. ### `Enlace GitHub`:
+3. ### `Enlace GitHub y Perfiles de los Participantes`:
 
    - Enlace al repositorio de GitHub compartido : [Repo1Actividad1](https://github.com/L0cksat/Repo1Actividad1)
+   - [Marcos Lambir Torres](https://github.com/MLT93)
+   - [Stephen Nicholas Jones De Giorgi](https://github.com/L0cksat)
+   - [Victor Suero Sánchez](https://github.com/Victorsuero7)
+   - [Juan Montiel Fernández](https://github.com/xmontiel)
+
 
    ***
 
@@ -48,6 +53,6 @@ Cada integrante debe colaborar en la redacción de un documento grupal en el que
 
 5. ### `Conclusiones grupales`:
 
-   - Las conclusiones del grupo son las siguiente: Todos nosotros hemos encontrado tanto la herramienta Git como GitHub muy útil para coordinarnos y llevar a cabo este trabajo. Estamos seguro de que seguiremos utilizando esta herramienta en el futuro, ya que es muy práctica
+   - ### **Las conclusiones del grupo son las siguiente: Todos nosotros hemos encontrado tanto la herramienta Git como GitHub muy útil para coordinarnos y llevar a cabo este trabajo. Estamos seguro de que seguiremos utilizando esta herramienta en el futuro, ya que es muy práctica**
 
    ***
